@@ -25,3 +25,6 @@ nicopaez/passwordapi-java:java8-fabric
 
 Si validamos lo anterior, ambas tienen la primera capa iguales.
 
+![alt text](https://github.com/carlosadf/docker-kubernates-taller/blob/main/ejercicio03/images/image-1.png?raw=true)
+![alt text](https://github.com/carlosadf/docker-kubernates-taller/blob/main/ejercicio03/images/image-2.png?raw=true)
+
