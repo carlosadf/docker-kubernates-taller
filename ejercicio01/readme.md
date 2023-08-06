@@ -1,7 +1,7 @@
 ## Instrucciones para build y ejecución
 
  1. Construir la imagen nginx:
-```shell
+ ```shell
 	docker build -t ejercicio01:0.0.1 .
 ```
  2. Ejecutar la imagen:
